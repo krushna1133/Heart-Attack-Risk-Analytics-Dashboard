@@ -1,4 +1,4 @@
-# Heart Attack Risk Analysis Dashboard
+# Heart Attack Risk Analysis Dashboard (Power BI)
 
 ## Overview
 
@@ -172,11 +172,8 @@ Possible future enhancements include:
 
 ## Author
 
-Your Name
+Krushna Rathod
 B.Tech – Artificial Intelligence & Data Science
 
 ---
 
-## License
-
-This project is for **educational and research purposes only**.
