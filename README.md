@@ -170,10 +170,4 @@ Possible future enhancements include:
 
 ---
 
-## Author
-
-Krushna Rathod
-B.Tech – Artificial Intelligence & Data Science
-
----
 
