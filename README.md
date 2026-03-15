@@ -66,6 +66,7 @@ Visualizations include:
 
 
 This page provides a summary of patient statistics and demographic analysis including total patients, high risk patients, age distribution, and geographic distribution.
+
 ![Overview Dashboard](Project/screenshots/overview-dashboard.png)
 
 ---
@@ -86,7 +87,9 @@ Key Insight:
 Patients with **low physical activity, high stress levels, and smoking habits** show increased heart attack risk.
 
 This page analyzes how lifestyle habits influence heart attack risk such as smoking habits, sleep hours, exercise activity, and stress levels.
+
 ![Lifestyle Risk Analysis](Project/screenshots/lifestyle-analysis.png)
+
 ---
 
 ### 3. Medical Risk Factors
@@ -103,6 +106,7 @@ Key Insight:
 Patients with **higher cholesterol levels, high blood pressure, and higher BMI** tend to show greater heart attack risk.
 
 This page focuses on medical indicators such as cholesterol levels, blood pressure distribution, and BMI categories to identify patterns related to heart attack risk.
+
 ![Medical Risk Factors](Project/screenshots/medical-risk-factors.png)
 
 ---
