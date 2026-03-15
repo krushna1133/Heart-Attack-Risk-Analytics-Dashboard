@@ -72,7 +72,7 @@ Visualizations include:
 
 This page provides a summary of patient statistics and demographic analysis including total patients, high risk patients, age distribution, and geographic distribution.
 
-![Overview Dashboard](project/screenshots/overview-dashboard.png)
+![Overview Dashboard](Project/screenshots/overview-dashboard.png)
 
 ---
 
@@ -80,7 +80,7 @@ This page provides a summary of patient statistics and demographic analysis incl
 
 This page analyzes how lifestyle habits influence heart attack risk such as smoking habits, sleep hours, exercise activity, and stress levels.
 
-![Lifestyle Risk Analysis](project/screenshots/lifestyle-analysis.png)
+![Lifestyle Risk Analysis](Project/screenshots/lifestyle-analysis.png)
 
 ---
 
@@ -88,7 +88,7 @@ This page analyzes how lifestyle habits influence heart attack risk such as smok
 
 This page focuses on medical indicators such as cholesterol levels, blood pressure distribution, and BMI categories to identify patterns related to heart attack risk.
 
-![Medical Risk Factors](project/screenshots/medical-risk-factors.png)
+![Medical Risk Factors](Project/screenshots/medical-risk-factors.png)
 
 ---
 
