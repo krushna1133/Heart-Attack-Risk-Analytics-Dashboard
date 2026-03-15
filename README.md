@@ -66,6 +66,32 @@ Visualizations include:
 
 ---
 
+## Dashboard Preview
+
+### Overview Dashboard
+
+This page provides a summary of patient statistics and demographic analysis including total patients, high risk patients, age distribution, and geographic distribution.
+
+![Overview Dashboard](project/screenshots/overview-dashboard.png)
+
+---
+
+### Lifestyle Risk Analysis
+
+This page analyzes how lifestyle habits influence heart attack risk such as smoking habits, sleep hours, exercise activity, and stress levels.
+
+![Lifestyle Risk Analysis](project/screenshots/lifestyle-analysis.png)
+
+---
+
+### Medical Risk Factors
+
+This page focuses on medical indicators such as cholesterol levels, blood pressure distribution, and BMI categories to identify patterns related to heart attack risk.
+
+![Medical Risk Factors](project/screenshots/medical-risk-factors.png)
+
+---
+
 ### 2. Lifestyle Risk Analysis
 
 Analyzes how lifestyle habits affect heart attack risk.
@@ -110,16 +136,16 @@ Patients with **higher cholesterol levels, high blood pressure, and higher BMI**
 ## Project Structure
 
 ```
-Heart-Attack-Risk-Analysis-Dashboard
+Heart-Attack-Risk-Analytics-Dashboard
 │
-├── Dataset
-│   └── heart_attack_prediction_dataset.csv
+├── Internship
+│   ├── daily practice
+│   └── lecture work
 │
-├── Dashboard
-│   └── Heart_Attack_Risk_Analysis.pbix
-│
-├── Images
-│   └── dashboard_screenshots
+├── Project
+│   ├── Power BI file (.pbix)
+│   ├── Dataset
+│   └── PPT
 │
 └── README.md
 ```
